@@ -1,5 +1,5 @@
 # coronavirus-telegram-bot
-🤖 Telegram Bot : Python Scraper + Nodejs Server deployed in heruko
+🤖 Telegram Bot : Python Scraper + Nodejs Server deployed in heruko [Still in development]
 
 Various false data sources always create panic amongst the people , it scraps data from authentic govt website doesnot mislead.
 It might not work after some time may.
@@ -11,3 +11,4 @@ Consist of two components:
   Deployed at : https://corona-telegram-bot.herokuapp.com/
   
   
+![gif](https://github.com/rohanprasadofficial/coronavirus-telegram-bot/blob/master/ss.gif)
